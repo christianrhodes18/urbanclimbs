@@ -1,7 +1,6 @@
+import React from 'react'
 import { createStyles, Overlay, Container, Title, Button, Text } from '@mantine/core';
-import { Link, Route } from 'react-router-dom';
-import { Climbs } from '../pages/Climbs'
-
+import { Link } from 'react-router-dom';
 
 const useStyles = createStyles((theme) => ({
   hero: {
