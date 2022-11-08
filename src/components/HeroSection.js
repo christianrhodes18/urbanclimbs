@@ -1,4 +1,7 @@
 import { createStyles, Overlay, Container, Title, Button, Text } from '@mantine/core';
+import { Link, Route } from 'react-router-dom';
+import { Climbs } from '../pages/Climbs'
+
 
 const useStyles = createStyles((theme) => ({
   hero: {
@@ -77,10 +80,11 @@ function HeroContentLeft() {
           Explore climbing structures across the world, from skyscrapers to cranes and bridges, 
           this application will give you the insight you need to live daringly. 
         </Text>
-
+      <Link to="climbs">
         <Button variant="gradient" size="xl" radius="xl" className={classes.control}>
           Get started
         </Button>
+      </Link>
       </Container>
     </div>
   );
