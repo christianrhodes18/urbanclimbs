@@ -1,0 +1,12 @@
+.cards-container {
+    margin: 1rem 1rem 1rem 300px; /* top right bottom left */
+    padding: 0 2em 0 2em;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(225px, 1fr));
+    gap: 3rem;
+}
+
+.card {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+}
