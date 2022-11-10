@@ -116,6 +116,9 @@ export function NavBar() {
       <Navbar.Section grow>
         <Group className={classes.header} position="apart">
          {/*  <MantineLogo size={28} inverted /> */}
+          <a>
+            <div>IconBuildingBridge</div>
+          </a>
           <Code className={classes.version}>v0.9</Code>
         </Group>
         {links}

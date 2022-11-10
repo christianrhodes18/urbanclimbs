@@ -1,0 +1,28 @@
+{
+    "buildings": [
+        {
+            "image": "https://images.unsplash.com/photo-1619806840163-38e329be64bb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1548&q=80",
+            "title": "Burj Khalifa",
+            "country": "United Arab Emirates",
+            "description": "The Burj Khalifa is the tallest structure and building in the world since its topping out in 2009, supplanting Taipei 101, the previous holder of that status",
+            "badges": [
+            { "emoji": "🛕", "label": "Skyscraper" },
+            { "emoji": "🏙", "label": "City" },
+            { "emoji": "🌊", "label": "Ocean-View" }
+            ]
+        },
+        {
+            "image": "https://images.unsplash.com/photo-1437719417032-8595fd9e9dc6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=600&q=80",
+            "title": "building 2",
+            "country": "pakistan",
+            "description": "Completely renovated for the season 2020, Arena Verudela Bech Apartments are fully equipped and modernly furnished 4-star self-service apartments located on the Adriatic coastline by one of the most beautiful beaches in Pula.",
+            "badges": [
+            { "emoji": "☀️", "label": "Sunny weather" },
+            { "emoji": "🦓", "label": "Onsite zoo" },
+            { "emoji": "🌊", "label": "Sea" },
+            { "emoji": "🌲", "label": "Nature" },
+            { "emoji": "🤽", "label": "Water sports" }
+            ]
+        }
+    ]
+}
