@@ -6,7 +6,19 @@ import '../styles/climbs.css'
 
 function Climbs() {
 
+    //try using useEffect here
     var data = json_buildings
+    var text = data.buildings.forEach((building) => {
+        <div className="card">
+            <BadgeCard 
+                image={building.image}
+                title={building.title}
+                country={building.country}
+                description={building.description} 
+                badges={[{ emoji: '🦓', label: 'Great View' }]} 
+            />
+        </div>
+    }
 
     return (
         <>
