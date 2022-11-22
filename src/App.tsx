@@ -4,7 +4,7 @@ import { Welcome } from './pages/Welcome'
 import { NotFound } from './pages/NotFound';
 import './App.css';
 import { Route, Routes } from 'react-router-dom'
-import Climbs from './pages/Climbs';
+import Climbs from './components/Climbs';
 
 function App() {
   return (

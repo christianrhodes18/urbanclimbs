@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
-import { NavBar } from '../components/NavBar'
+import { NavBar } from './NavBar'
 import json_buildings from '../buildings.json'
-import { BadgeCard } from '../components/BuildingCard'
+import { BadgeCard } from './BuildingCard'
 import '../styles/climbs.css'
 
 function Climbs() {
