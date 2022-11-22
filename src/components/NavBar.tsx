@@ -6,7 +6,6 @@ import {
   IconBuildingSkyscraper,
   IconBuildingBridge,
   IconWorld,
-  IconSwitchHorizontal,
   IconLogout,
 } from '@tabler/icons';
 
@@ -117,7 +116,7 @@ export function NavBar() {
         <Group className={classes.header} position="apart">
          {/*  <MantineLogo size={28} inverted /> */}
           <a>
-            <div>IconBuildingBridge</div>
+            <Code className={classes.version}>Urban Climbs</Code>
           </a>
           <Code className={classes.version}>v0.9</Code>
         </Group>

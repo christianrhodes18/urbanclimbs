@@ -1,6 +1,8 @@
 {
     "buildings": [
         {
+            "id": 1,
+            "category": "building",
             "image": "https://images.unsplash.com/photo-1619806840163-38e329be64bb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1548&q=80",
             "title": "Burj Khalifa",
             "country": "United Arab Emirates",
@@ -12,6 +14,8 @@
             ]
         },
         {
+            "id": 2,
+            "category": "city",
             "image": "https://images.unsplash.com/photo-1437719417032-8595fd9e9dc6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=600&q=80",
             "title": "building 2",
             "country": "pakistan",
