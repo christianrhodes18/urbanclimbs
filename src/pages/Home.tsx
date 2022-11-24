@@ -4,7 +4,7 @@ import Climbs from '../components/Climbs'
 import { NavBar } from '../components/NavBar'
 
 export default function Welcome() {
-    const [filterType, setFilterType] = useState<string>('blank')
+    const [filterType, setFilterType] = useState<string>('buildings')
     var data = json_buildings
 
     return (
