@@ -5,13 +5,12 @@ import '../styles/climbs.css'
 
 function Climbs(props: { data: any; type: string; }) {
     const data = props.data
-    const type = props.type
+    const type = props.type.toLowerCase()
 
     return (
         <>
-            <h1>{type}</h1>
             <div className="cards-container">
-                {data.buildings.filter((item: { category: string | string[]; }) => item.category.includes('Example')).map((filteredItem: { id: number; category: string; image: string; title: string; country: string; description: string; }) => (
+                {data.buildings.filter((item: { category: string | string[]; }) => item.category.includes(type)).map((filteredItem: { id: number; category: string; image: string; title: string; country: string; description: string; }) => (
                     <div className="card" key={filteredItem.id}>
                         <BadgeCard 
                             category={filteredItem.category}

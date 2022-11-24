@@ -2,7 +2,7 @@
     "buildings": [
         {
             "id": 1,
-            "category": "building",
+            "category": "buildings",
             "image": "https://images.unsplash.com/photo-1619806840163-38e329be64bb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1548&q=80",
             "title": "Burj Khalifa",
             "country": "United Arab Emirates",
@@ -15,9 +15,9 @@
         },
         {
             "id": 2,
-            "category": "city",
+            "category": "cities",
             "image": "https://images.unsplash.com/photo-1437719417032-8595fd9e9dc6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=600&q=80",
-            "title": "building 2",
+            "title": "city 1",
             "country": "pakistan",
             "description": "Completely renovated for the season 2020, Arena Verudela Bech Apartments are fully equipped and modernly furnished 4-star self-service apartments located on the Adriatic coastline by one of the most beautiful beaches in Pula.",
             "badges": [
@@ -30,7 +30,7 @@
         },
         {
             "id": 3,
-            "category": "building",
+            "category": "buildings",
             "image": "https://images.unsplash.com/photo-1437719417032-8595fd9e9dc6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=600&q=80",
             "title": "building 2",
             "country": "pakistan",
@@ -45,9 +45,9 @@
         },
         {
             "id": 4,
-            "category": "city",
+            "category": "cities",
             "image": "https://images.unsplash.com/photo-1437719417032-8595fd9e9dc6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=600&q=80",
-            "title": "building 2",
+            "title": "city 2",
             "country": "pakistan",
             "description": "Completely renovated for the season 2020, Arena Verudela Bech Apartments are fully equipped and modernly furnished 4-star self-service apartments located on the Adriatic coastline by one of the most beautiful beaches in Pula.",
             "badges": [
@@ -60,9 +60,9 @@
         },
         {
             "id": 4,
-            "category": "building",
+            "category": "buildings",
             "image": "https://images.unsplash.com/photo-1437719417032-8595fd9e9dc6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=600&q=80",
-            "title": "building 2",
+            "title": "building 3",
             "country": "pakistan",
             "description": "Completely renovated for the season 2020, Arena Verudela Bech Apartments are fully equipped and modernly furnished 4-star self-service apartments located on the Adriatic coastline by one of the most beautiful beaches in Pula.",
             "badges": [
