@@ -91,9 +91,16 @@ const data = [
   { link: '', label: 'Infrastructure', icon: IconBuildingBridge },
 ];
 
-export function NavBar() {
+export function NavBar(props: { filterType: any; }) {
   const { classes, cx } = useStyles();
   const [active, setActive] = useState('Billing');
+  
+  //let filterType = props.filterType
+  let setFilterType = props.filterType
+
+  const clickHandler = (type: string) => {
+    setFilterType(type);
+};
 
   const links = data.map((item) => (
     <a
@@ -101,6 +108,7 @@ export function NavBar() {
       href={item.link}
       key={item.label}
       onClick={(event) => {
+        clickHandler(item.label)
         event.preventDefault();
         setActive(item.label);
       }}

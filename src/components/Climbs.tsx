@@ -1,23 +1,18 @@
 import React, { useEffect, useState } from 'react'
-import { NavBar } from './NavBar'
 import json_buildings from '../buildings.json'
 import { BadgeCard } from './BuildingCard'
 import '../styles/climbs.css'
 
-function Climbs() {
-    const [filterType, setFilterType] = useState<string>('building')
-
-    //try using useEffect here
-    var data = json_buildings
+function Climbs(props: { data: any; type: string; }) {
+    const data = props.data
+    const type = props.type
 
     return (
         <>
-            <nav>
-                <NavBar />
-            </nav>
+            <h1>{type}</h1>
             <div className="cards-container">
-                {data.buildings.filter(item => item.category.includes(filterType)).map(filteredItem => (
-                    <div className="card">
+                {data.buildings.filter((item: { category: string | string[]; }) => item.category.includes('Example')).map((filteredItem: { id: number; category: string; image: string; title: string; country: string; description: string; }) => (
+                    <div className="card" key={filteredItem.id}>
                         <BadgeCard 
                             category={filteredItem.category}
                             image={filteredItem.image}

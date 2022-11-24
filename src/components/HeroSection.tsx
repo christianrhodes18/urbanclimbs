@@ -79,7 +79,7 @@ function HeroContentLeft() {
           Explore climbing structures across the world, from skyscrapers to cranes and bridges, 
           this application will give you the insight you need to live daringly. 
         </Text>
-      <Link to="climbs">
+      <Link to="Home">
         <Button variant="gradient" size="xl" radius="xl" className={classes.control}>
           Get started
         </Button>

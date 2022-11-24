@@ -4,14 +4,14 @@ import { Welcome } from './pages/Welcome'
 import { NotFound } from './pages/NotFound';
 import './App.css';
 import { Route, Routes } from 'react-router-dom'
-import Climbs from './components/Climbs';
+import Home from './pages/Home';
 
 function App() {
   return (
     <MantineProvider withGlobalStyles withNormalizeCSS>
       <Routes>
         <Route path="/" element={<Welcome />} />
-        <Route path="/climbs" element={<Climbs />} />
+        <Route path="/home" element={<Home />} />
         <Route path="*" element={<NotFound />} />
       </Routes>
     </MantineProvider>
