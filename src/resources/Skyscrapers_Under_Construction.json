@@ -1,0 +1,1002 @@
+[
+ {
+   "Number": 1,
+   "Name": "Jeddah Tower",
+   "City": "Jeddah",
+   "Year": "N/A",
+   "Height": "1000 m\n/\n3,281 ft",
+   "Floors": "167",
+   "Material": "All-Concrete",
+   "Use": "Residential / Serviced Apartments"
+ },
+ {
+   "Number": 2,
+   "Name": "Merdeka 118",
+   "City": "Kuala Lumpur",
+   "Year": "2022",
+   "Height": "678.9 m\n/\n2,227 ft",
+   "Floors": "118",
+   "Material": "Concrete-Steel Composite",
+   "Use": "Hotel / Serviced Apartments / Office"
+ },
+ {
+   "Number": 3,
+   "Name": "Greenland Jinmao International Financial Center",
+   "City": "Nanjing",
+   "Year": "2025",
+   "Height": "499.8 m\n/\n1,640 ft",
+   "Floors": "102",
+   "Material": "N/A",
+   "Use": "Hotel / Office"
+ },
+ {
+   "Number": 4,
+   "Name": "Suzhou Zhongnan Center",
+   "City": "Suzhou",
+   "Year": "2025",
+   "Height": "499.2 m\n/\n1,638 ft",
+   "Floors": "103",
+   "Material": "Composite",
+   "Use": "Residential / Hotel / Office"
+ },
+ {
+   "Number": 5,
+   "Name": "HeXi Yuzui Tower A",
+   "City": "Nanjing",
+   "Year": "2025",
+   "Height": "498.8 m\n/\n1,636 ft",
+   "Floors": "85",
+   "Material": "N/A",
+   "Use": "Office"
+ },
+ {
+   "Number": 6,
+   "Name": "Fuyuan Zhongshan 108 IFC",
+   "City": "Zhongshan",
+   "Year": "2029",
+   "Height": "498 m\n/\n1,634 ft",
+   "Floors": "108",
+   "Material": "N/A",
+   "Use": "Hotel / SOHO / Office"
+ },
+ {
+   "Number": 6,
+   "Name": "China International Silk Road Center",
+   "City": "Xi’an",
+   "Year": "2025",
+   "Height": "498 m\n/\n1,634 ft",
+   "Floors": "101",
+   "Material": "Concrete-Steel Composite",
+   "Use": "Hotel / Office"
+ },
+ {
+   "Number": 8,
+   "Name": "Tianfu Center",
+   "City": "Chengdu",
+   "Year": "2026",
+   "Height": "488.9 m\n/\n1,604 ft",
+   "Floors": "95",
+   "Material": "N/A",
+   "Use": "Office / Exhibition"
+ },
+ {
+   "Number": 9,
+   "Name": "Wuhan Greenland Center",
+   "City": "Wuhan",
+   "Year": "2023",
+   "Height": "475.6 m\n/\n1,560 ft",
+   "Floors": "101",
+   "Material": "Concrete-Steel Composite",
+   "Use": "Hotel / Serviced Apartments / Office"
+ },
+ {
+   "Number": 10,
+   "Name": "Chushang Building",
+   "City": "Wuhan",
+   "Year": "2025",
+   "Height": "475 m\n/\n1,558 ft",
+   "Floors": "111",
+   "Material": "N/A",
+   "Use": "Office"
+ },
+ {
+   "Number": 10,
+   "Name": "Wuhan CTF Finance Center",
+   "City": "Wuhan",
+   "Year": "2026",
+   "Height": "475 m\n/\n1,558 ft",
+   "Floors": "84",
+   "Material": "Composite",
+   "Use": "Office"
+ },
+ {
+   "Number": 12,
+   "Name": "Fosun Bund Center T1",
+   "City": "Wuhan",
+   "Year": "N/A",
+   "Height": "470 m\n/\n1,542 ft",
+   "Floors": "N/A",
+   "Material": "N/A",
+   "Use": "Hotel / Office"
+ },
+ {
+   "Number": 13,
+   "Name": "Chengdu Greenland Tower",
+   "City": "Chengdu",
+   "Year": "2024",
+   "Height": "468 m\n/\n1,535 ft",
+   "Floors": "101",
+   "Material": "Concrete-Steel Composite",
+   "Use": "Hotel / Office"
+ },
+ {
+   "Number": 14,
+   "Name": "Guohua Financial Center Tower 1",
+   "City": "Wuhan",
+   "Year": "N/A",
+   "Height": "465 m\n/\n1,526 ft",
+   "Floors": "79",
+   "Material": "N/A",
+   "Use": "Office"
+ },
+ {
+   "Number": 15,
+   "Name": "International Land-Sea Center",
+   "City": "Chongqing",
+   "Year": "2024",
+   "Height": "458.2 m\n/\n1,503 ft",
+   "Floors": "98",
+   "Material": "Concrete-Steel Composite",
+   "Use": "Hotel / Office"
+ },
+ {
+   "Number": 16,
+   "Name": "Tianshan Gate of the World Plots 27 and 28",
+   "City": "Shijiazhuang",
+   "Year": "2025",
+   "Height": "450 m\n/\n1,476 ft",
+   "Floors": "106",
+   "Material": "N/A",
+   "Use": "Hotel / Office"
+ },
+ {
+   "Number": 16,
+   "Name": "China Resources Land Center",
+   "City": "Dongguan",
+   "Year": "N/A",
+   "Height": "450 m\n/\n1,476 ft",
+   "Floors": "98",
+   "Material": "N/A",
+   "Use": "Office"
+ },
+ {
+   "Number": 18,
+   "Name": "One Bangkok O4H4",
+   "City": "Bangkok",
+   "Year": "2025",
+   "Height": "436.1 m\n/\n1,431 ft",
+   "Floors": "92",
+   "Material": "N/A",
+   "Use": "Hotel / Office"
+ },
+ {
+   "Number": 19,
+   "Name": "Haikou Tower 1",
+   "City": "Haikou",
+   "Year": "2027",
+   "Height": "428 m\n/\n1,404 ft",
+   "Floors": "94",
+   "Material": "Concrete-Steel Composite",
+   "Use": "Hotel / Residential / Office"
+ },
+ {
+   "Number": 19,
+   "Name": "Greenland Shandong International Financial Center",
+   "City": "Jinan",
+   "Year": "2023",
+   "Height": "428 m\n/\n1,404 ft",
+   "Floors": "88",
+   "Material": "Concrete-Steel Composite",
+   "Use": "Hotel / SOHO / Office"
+ },
+ {
+   "Number": 21,
+   "Name": "Nanjing Financial City Phase II Plot C Tower 1",
+   "City": "Nanjing",
+   "Year": "2024",
+   "Height": "426 m\n/\n1,398 ft",
+   "Floors": "88",
+   "Material": "Concrete-Steel Composite",
+   "Use": "Hotel / Office"
+ },
+ {
+   "Number": 22,
+   "Name": "JPMorgan Chase World Headquarters",
+   "City": "New York City",
+   "Year": "2025",
+   "Height": "423 m\n/\n1,388 ft",
+   "Floors": "60",
+   "Material": "Concrete-Steel Composite",
+   "Use": "Office"
+ },
+ {
+   "Number": 23,
+   "Name": "Ningbo Central Plaza Tower 1",
+   "City": "Ningbo",
+   "Year": "2024",
+   "Height": "409 m\n/\n1,342 ft",
+   "Floors": "80",
+   "Material": "Concrete-Steel Composite",
+   "Use": "Hotel / Residential / Office"
+ },
+ {
+   "Number": 24,
+   "Name": "Dongfeng Plaza Landmark Tower",
+   "City": "Kunming",
+   "Year": "2024",
+   "Height": "407 m\n/\n1,335 ft",
+   "Floors": "100",
+   "Material": "All-Concrete",
+   "Use": "Hotel / Office / Retail"
+ },
+ {
+   "Number": 25,
+   "Name": "Great River Center",
+   "City": "Wuhan",
+   "Year": "2025",
+   "Height": "400 m\n/\n1,312 ft",
+   "Floors": "82",
+   "Material": "Concrete-Steel Composite",
+   "Use": "Office"
+ },
+ {
+   "Number": 26,
+   "Name": "Hangzhou West Railway Station Hub Tower 1",
+   "City": "Hangzhou",
+   "Year": "N/A",
+   "Height": "399.8 m\n/\n1,312 ft",
+   "Floors": "83",
+   "Material": "N/A",
+   "Use": "Hotel / Office"
+ },
+ {
+   "Number": 27,
+   "Name": "Shenzhen Bay Super Headquarters Base Tower C-1",
+   "City": "Shenzhen",
+   "Year": "2027",
+   "Height": "394 m\n/\n1,293 ft",
+   "Floors": "78",
+   "Material": "N/A",
+   "Use": "Hotel / Office"
+ },
+ {
+   "Number": 28,
+   "Name": "Iconic Tower",
+   "City": "Cairo",
+   "Year": "2023",
+   "Height": "393.8 m\n/\n1,292 ft",
+   "Floors": "77",
+   "Material": "Concrete-Steel Composite",
+   "Use": "Hotel / Residential / Office"
+ },
+ {
+   "Number": 29,
+   "Name": "Haiyun Plaza Tower 1",
+   "City": "Rizhao",
+   "Year": "2024",
+   "Height": "390 m\n/\n1,280 ft",
+   "Floors": "86",
+   "Material": "N/A",
+   "Use": "Hotel / Office"
+ },
+ {
+   "Number": 30,
+   "Name": "CITYMARK CENTRE",
+   "City": "Shenzhen",
+   "Year": "2022",
+   "Height": "388.3 m\n/\n1,274 ft",
+   "Floors": "70",
+   "Material": "Concrete-Steel Composite",
+   "Use": "Residential / Office"
+ },
+ {
+   "Number": 31,
+   "Name": "China Merchants Bank Global Headquarters Main Tower",
+   "City": "Shenzhen",
+   "Year": "N/A",
+   "Height": "387.4 m\n/\n1,271 ft",
+   "Floors": "77",
+   "Material": "N/A",
+   "Use": "Office"
+ },
+ {
+   "Number": 32,
+   "Name": "Tour F",
+   "City": "Abidjan",
+   "Year": "N/A",
+   "Height": "385.8 m\n/\n1,266 ft",
+   "Floors": "64",
+   "Material": "All-Concrete",
+   "Use": "Office"
+ },
+ {
+   "Number": 33,
+   "Name": "Autograph Tower",
+   "City": "Jakarta",
+   "Year": "2022",
+   "Height": "382.9 m\n/\n1,256 ft",
+   "Floors": "75",
+   "Material": "Concrete-Steel Composite",
+   "Use": "Hotel / Office"
+ },
+ {
+   "Number": 34,
+   "Name": "Shenzhen Luohu Friendship Trading Centre",
+   "City": "Shenzhen",
+   "Year": "N/A",
+   "Height": "379.9 m\n/\n1,246 ft",
+   "Floors": "83",
+   "Material": "N/A",
+   "Use": "Office / Retail"
+ },
+ {
+   "Number": 35,
+   "Name": "Greenland Star City Light Tower",
+   "City": "Changsha",
+   "Year": "2025",
+   "Height": "379.9 m\n/\n1,246 ft",
+   "Floors": "83",
+   "Material": "N/A",
+   "Use": "Hotel / Serviced Apartments / Office"
+ },
+ {
+   "Number": 36,
+   "Name": "Guangdong Business Center",
+   "City": "Guangzhou",
+   "Year": "2024",
+   "Height": "375.5 m\n/\n1,232 ft",
+   "Floors": "60",
+   "Material": "All-Steel",
+   "Use": "Office"
+ },
+ {
+   "Number": 37,
+   "Name": "China Merchants Prince Bay Tower",
+   "City": "Shenzhen",
+   "Year": "2028",
+   "Height": "374 m\n/\n1,227 ft",
+   "Floors": "59",
+   "Material": "All-Concrete",
+   "Use": "Hotel / Office"
+ },
+ {
+   "Number": 38,
+   "Name": "Hengfeng Guiyang Center Tower 1",
+   "City": "Guiyang",
+   "Year": "2023",
+   "Height": "373.5 m\n/\n1,225 ft",
+   "Floors": "77",
+   "Material": "Concrete-Steel Composite",
+   "Use": "Hotel / Office"
+ },
+ {
+   "Number": 39,
+   "Name": "Nanchang Ping An Financial Center",
+   "City": "Nanchang",
+   "Year": "2026",
+   "Height": "373 m\n/\n1,224 ft",
+   "Floors": "72",
+   "Material": "N/A",
+   "Use": "Hotel / Office"
+ },
+ {
+   "Number": 40,
+   "Name": "Shanghai International Trade Center Tower 1",
+   "City": "Shanghai",
+   "Year": "2024",
+   "Height": "370 m\n/\n1,214 ft",
+   "Floors": "67",
+   "Material": "Concrete-Steel Composite",
+   "Use": "Office"
+ },
+ {
+   "Number": 41,
+   "Name": "Lucheng Square",
+   "City": "Wenzhou",
+   "Year": "N/A",
+   "Height": "369 m\n/\n1,211 ft",
+   "Floors": "75",
+   "Material": "N/A",
+   "Use": "Hotel / Residential / Office"
+ },
+ {
+   "Number": 41,
+   "Name": "Hengli Global Operations Headquarters Tower 1",
+   "City": "Suzhou",
+   "Year": "2025",
+   "Height": "369 m\n/\n1,211 ft",
+   "Floors": "N/A",
+   "Material": "N/A",
+   "Use": "Hotel / Office"
+ },
+ {
+   "Number": 43,
+   "Name": "Ciel Tower",
+   "City": "Dubai",
+   "Year": "2023",
+   "Height": "365.5 m\n/\n1,199 ft",
+   "Floors": "81",
+   "Material": "All-Concrete",
+   "Use": "Hotel"
+ },
+ {
+   "Number": 44,
+   "Name": "Ping An Finance Center Tower 1",
+   "City": "Jinan",
+   "Year": "2023",
+   "Height": "360 m\n/\n1,181 ft",
+   "Floors": "62",
+   "Material": "Concrete-Steel Composite",
+   "Use": "Hotel / Office"
+ },
+ {
+   "Number": 45,
+   "Name": "Huiyun Center",
+   "City": "Shenzhen",
+   "Year": "2022",
+   "Height": "359.2 m\n/\n1,178 ft",
+   "Floors": "80",
+   "Material": "Concrete-Steel Composite",
+   "Use": "Hotel / Office"
+ },
+ {
+   "Number": 46,
+   "Name": "Greenland Group Suzhou Center",
+   "City": "Suzhou",
+   "Year": "2023",
+   "Height": "358 m\n/\n1,175 ft",
+   "Floors": "77",
+   "Material": "Concrete-Steel Composite",
+   "Use": "Hotel / Office"
+ },
+ {
+   "Number": 46,
+   "Name": "Naga 3 Tower A",
+   "City": "Phnom Penh",
+   "Year": "2025",
+   "Height": "358 m\n/\n1,175 ft",
+   "Floors": "75",
+   "Material": "N/A",
+   "Use": "Hotel / Casino"
+ },
+ {
+   "Number": 48,
+   "Name": "Il Primo Tower",
+   "City": "Dubai",
+   "Year": "2022",
+   "Height": "356 m\n/\n1,168 ft",
+   "Floors": "79",
+   "Material": "All-Concrete",
+   "Use": "Residential"
+ },
+ {
+   "Number": 48,
+   "Name": "Galaxy World Tower 1",
+   "City": "Shenzhen",
+   "Year": "2023",
+   "Height": "356 m\n/\n1,168 ft",
+   "Floors": "71",
+   "Material": "Concrete-Steel Composite",
+   "Use": "Office"
+ },
+ {
+   "Number": 48,
+   "Name": "Galaxy World Tower 2",
+   "City": "Shenzhen",
+   "Year": "2023",
+   "Height": "356 m\n/\n1,168 ft",
+   "Floors": "71",
+   "Material": "Concrete-Steel Composite",
+   "Use": "Office"
+ },
+ {
+   "Number": 48,
+   "Name": "Fosun Bund Center T2",
+   "City": "Wuhan",
+   "Year": "N/A",
+   "Height": "356 m\n/\n1,168 ft",
+   "Floors": "N/A",
+   "Material": "N/A",
+   "Use": "Office"
+ },
+ {
+   "Number": 52,
+   "Name": "Shenzhen Bay Super Headquarters Base Tower C-2",
+   "City": "Shenzhen",
+   "Year": "2027",
+   "Height": "355.7 m\n/\n1,167 ft",
+   "Floors": "68",
+   "Material": "N/A",
+   "Use": "Office"
+ },
+ {
+   "Number": 53,
+   "Name": "Central Bank of the Republic of Turkey",
+   "City": "Istanbul",
+   "Year": "2024",
+   "Height": "352 m\n/\n1,155 ft",
+   "Floors": "59",
+   "Material": "Concrete-Steel Composite",
+   "Use": "Office"
+ },
+ {
+   "Number": 54,
+   "Name": "Glory・Xi'an International Financial Center",
+   "City": "Xi’an",
+   "Year": "2022",
+   "Height": "350 m\n/\n1,148 ft",
+   "Floors": "75",
+   "Material": "Concrete-Steel Composite",
+   "Use": "Office"
+ },
+ {
+   "Number": 54,
+   "Name": "Guohong Center",
+   "City": "Wenzhou",
+   "Year": "2025",
+   "Height": "350 m\n/\n1,148 ft",
+   "Floors": "71",
+   "Material": "N/A",
+   "Use": "Hotel / Office"
+ },
+ {
+   "Number": 54,
+   "Name": "Baolixian Village Old Reform Project Main Building",
+   "City": "Guangzhou",
+   "Year": "2024",
+   "Height": "350 m\n/\n1,148 ft",
+   "Floors": "70",
+   "Material": "N/A",
+   "Use": "Office"
+ },
+ {
+   "Number": 54,
+   "Name": "Guowei ZY Plaza",
+   "City": "Zhuhai",
+   "Year": "N/A",
+   "Height": "350 m\n/\n1,148 ft",
+   "Floors": "62",
+   "Material": "N/A",
+   "Use": "Office"
+ },
+ {
+   "Number": 54,
+   "Name": "China Resources Huafu Tower",
+   "City": "Shenzhen",
+   "Year": "N/A",
+   "Height": "350 m\n/\n1,148 ft",
+   "Floors": "N/A",
+   "Material": "N/A",
+   "Use": "Office"
+ },
+ {
+   "Number": 54,
+   "Name": "Global Port Tower 1",
+   "City": "Lanzhou",
+   "Year": "2024",
+   "Height": "350 m\n/\n1,148 ft",
+   "Floors": "N/A",
+   "Material": "N/A",
+   "Use": "Office / Retail"
+ },
+ {
+   "Number": 54,
+   "Name": "Global Port Tower 2",
+   "City": "Lanzhou",
+   "Year": "2024",
+   "Height": "350 m\n/\n1,148 ft",
+   "Floors": "N/A",
+   "Material": "N/A",
+   "Use": "Office / Retail"
+ },
+ {
+   "Number": 54,
+   "Name": "Poly Liangxi Plaza",
+   "City": "Foshan",
+   "Year": "N/A",
+   "Height": "350 m\n/\n1,148 ft",
+   "Floors": "N/A",
+   "Material": "N/A",
+   "Use": "Office"
+ },
+ {
+   "Number": 62,
+   "Name": "SUNAC A-ONE Tower 2",
+   "City": "Chongqing",
+   "Year": "2024",
+   "Height": "348.9 m\n/\n1,145 ft",
+   "Floors": "N/A",
+   "Material": "Concrete-Steel Composite",
+   "Use": "Office"
+ },
+ {
+   "Number": 63,
+   "Name": "Xinchu Qingtian Plaza Tower 1",
+   "City": "Changsha",
+   "Year": "2024",
+   "Height": "348 m\n/\n1,142 ft",
+   "Floors": "N/A",
+   "Material": "Concrete-Steel Composite",
+   "Use": "Office"
+ },
+ {
+   "Number": 64,
+   "Name": "Uptown Tower",
+   "City": "Dubai",
+   "Year": "2022",
+   "Height": "340 m\n/\n1,115 ft",
+   "Floors": "78",
+   "Material": "All-Concrete",
+   "Use": "Residential / Hotel / Office"
+ },
+ {
+   "Number": 65,
+   "Name": "Zhonghai City Plaza",
+   "City": "Tianjin",
+   "Year": "N/A",
+   "Height": "339.9 m\n/\n1,115 ft",
+   "Floors": "75",
+   "Material": "N/A",
+   "Use": "Office"
+ },
+ {
+   "Number": 66,
+   "Name": "Junkang Center",
+   "City": "Wenzhou",
+   "Year": "2024",
+   "Height": "339 m\n/\n1,112 ft",
+   "Floors": "71",
+   "Material": "Concrete-Steel Composite",
+   "Use": "Office"
+ },
+ {
+   "Number": 67,
+   "Name": "Oxley Tower 1",
+   "City": "Kuala Lumpur",
+   "Year": "2024",
+   "Height": "338.6 m\n/\n1,111 ft",
+   "Floors": "84",
+   "Material": "All-Concrete",
+   "Use": "Serviced Apartments / Hotel"
+ },
+ {
+   "Number": 68,
+   "Name": "The One",
+   "City": "Toronto",
+   "Year": "2024",
+   "Height": "338.3 m\n/\n1,110 ft",
+   "Floors": "94",
+   "Material": "Concrete-Steel Composite",
+   "Use": "Residential / Hotel"
+ },
+ {
+   "Number": 69,
+   "Name": "Wanling Global Center",
+   "City": "Zhuhai",
+   "Year": "2025",
+   "Height": "337 m\n/\n1,106 ft",
+   "Floors": "70",
+   "Material": "N/A",
+   "Use": "N/A"
+ },
+ {
+   "Number": 70,
+   "Name": "Yuetai Zhuxi Financial Center",
+   "City": "Jiangmen",
+   "Year": "N/A",
+   "Height": "336 m\n/\n1,102 ft",
+   "Floors": "71",
+   "Material": "N/A",
+   "Use": "Office"
+ },
+ {
+   "Number": 71,
+   "Name": "Shenzhen Urban Construction & Tower",
+   "City": "Shenzhen",
+   "Year": "2024",
+   "Height": "333 m\n/\n1,093 ft",
+   "Floors": "72",
+   "Material": "Concrete-Steel Composite",
+   "Use": "Office"
+ },
+ {
+   "Number": 71,
+   "Name": "Guangjian Financial Center",
+   "City": "Guangzhou",
+   "Year": "2027",
+   "Height": "333 m\n/\n1,093 ft",
+   "Floors": "N/A",
+   "Material": "N/A",
+   "Use": "Office"
+ },
+ {
+   "Number": 73,
+   "Name": "Regalia",
+   "City": "Dubai",
+   "Year": "2024",
+   "Height": "331 m\n/\n1,086 ft",
+   "Floors": "70",
+   "Material": "All-Concrete",
+   "Use": "Residential"
+ },
+ {
+   "Number": 74,
+   "Name": "IBN Bukit Bintang",
+   "City": "Kuala Lumpur",
+   "Year": "2024",
+   "Height": "330 m\n/\n1,083 ft",
+   "Floors": "68",
+   "Material": "N/A",
+   "Use": "Residential / Hotel"
+ },
+ {
+   "Number": 74,
+   "Name": "Yuexiu Global Financial Center",
+   "City": "Wuhan",
+   "Year": "2023",
+   "Height": "330 m\n/\n1,083 ft",
+   "Floors": "68",
+   "Material": "Concrete-Steel Composite",
+   "Use": "Office"
+ },
+ {
+   "Number": 74,
+   "Name": "One Za'abeel Tower 1",
+   "City": "Dubai",
+   "Year": "2022",
+   "Height": "330 m\n/\n1,083 ft",
+   "Floors": "67",
+   "Material": "Concrete-Steel Composite",
+   "Use": "Office"
+ },
+ {
+   "Number": 74,
+   "Name": "Wuhan Yangtze River Shipping Center",
+   "City": "Wuhan",
+   "Year": "2022",
+   "Height": "330 m\n/\n1,083 ft",
+   "Floors": "65",
+   "Material": "Concrete-Steel Composite",
+   "Use": "Hotel / Office"
+ },
+ {
+   "Number": 74,
+   "Name": "Meixi Lake Changsha Jinmao Building",
+   "City": "Changsha",
+   "Year": "2024",
+   "Height": "330 m\n/\n1,083 ft",
+   "Floors": "64",
+   "Material": "N/A",
+   "Use": "Office"
+ },
+ {
+   "Number": 74,
+   "Name": "Jiulong Lake Knowledge Tower",
+   "City": "Guangzhou",
+   "Year": "2025",
+   "Height": "330 m\n/\n1,083 ft",
+   "Floors": "53",
+   "Material": "N/A",
+   "Use": "Hotel / Office"
+ },
+ {
+   "Number": 74,
+   "Name": "Jinqiao Sub-Center Block C1 Tower 1",
+   "City": "Shanghai",
+   "Year": "2026",
+   "Height": "330 m\n/\n1,083 ft",
+   "Floors": "N/A",
+   "Material": "N/A",
+   "Use": "Hotel / Office"
+ },
+ {
+   "Number": 81,
+   "Name": "Qingdao Landmark Tower",
+   "City": "Qingdao",
+   "Year": "2023",
+   "Height": "327.3 m\n/\n1,074 ft",
+   "Floors": "74",
+   "Material": "Concrete-Steel Composite",
+   "Use": "Hotel / Office"
+ },
+ {
+   "Number": 82,
+   "Name": "Deji World Trade Center Tower 1",
+   "City": "Nanjing",
+   "Year": "2022",
+   "Height": "326.5 m\n/\n1,071 ft",
+   "Floors": "68",
+   "Material": "Concrete-Steel Composite",
+   "Use": "Hotel / Office"
+ },
+ {
+   "Number": 83,
+   "Name": "Dongfeng Plaza Tower 2",
+   "City": "Kunming",
+   "Year": "2024",
+   "Height": "326 m\n/\n1,070 ft",
+   "Floors": "72",
+   "Material": "All-Concrete",
+   "Use": "SOHO / Retail"
+ },
+ {
+   "Number": 83,
+   "Name": "CITIC Pacific Plaza",
+   "City": "Jinan",
+   "Year": "N/A",
+   "Height": "326 m\n/\n1,070 ft",
+   "Floors": "64",
+   "Material": "N/A",
+   "Use": "Office"
+ },
+ {
+   "Number": 85,
+   "Name": "Toranomon-Azabudai District Main Tower",
+   "City": "Tokyo",
+   "Year": "2023",
+   "Height": "325.2 m\n/\n1,067 ft",
+   "Floors": "64",
+   "Material": "N/A",
+   "Use": "Residential / Office / Education"
+ },
+ {
+   "Number": 86,
+   "Name": "The Brooklyn Tower",
+   "City": "New York City",
+   "Year": "2022",
+   "Height": "324.9 m\n/\n1,066 ft",
+   "Floors": "74",
+   "Material": "All-Concrete",
+   "Use": "Residential"
+ },
+ {
+   "Number": 87,
+   "Name": "Azrieli Spiral Tower",
+   "City": "Tel Aviv",
+   "Year": "2025",
+   "Height": "323 m\n/\n1,060 ft",
+   "Floors": "91",
+   "Material": "N/A",
+   "Use": "Office"
+ },
+ {
+   "Number": 88,
+   "Name": "Sumo Tower 1",
+   "City": "Jeddah",
+   "Year": "N/A",
+   "Height": "322 m\n/\n1,056 ft",
+   "Floors": "70",
+   "Material": "All-Concrete",
+   "Use": "Residential / Office"
+ },
+ {
+   "Number": 88,
+   "Name": "Zhongtian Future Ark Global Valley Tower 5",
+   "City": "Guiyang",
+   "Year": "2023",
+   "Height": "322 m\n/\n1,056 ft",
+   "Floors": "62",
+   "Material": "Concrete-Steel Composite",
+   "Use": "Office / Retail"
+ },
+ {
+   "Number": 90,
+   "Name": "Huijin Center 1",
+   "City": "Guangzhou",
+   "Year": "2022",
+   "Height": "320 m\n/\n1,050 ft",
+   "Floors": "69",
+   "Material": "Concrete-Steel Composite",
+   "Use": "Office"
+ },
+ {
+   "Number": 90,
+   "Name": "Junchao Plaza",
+   "City": "Guangzhou",
+   "Year": "2023",
+   "Height": "320 m\n/\n1,050 ft",
+   "Floors": "67",
+   "Material": "Concrete-Steel Composite",
+   "Use": "Office / Retail / Office"
+ },
+ {
+   "Number": 90,
+   "Name": "Jiangbei New Financial Center Phase I",
+   "City": "Nanjing",
+   "Year": "2024",
+   "Height": "320 m\n/\n1,050 ft",
+   "Floors": "63",
+   "Material": "N/A",
+   "Use": "Office"
+ },
+ {
+   "Number": 90,
+   "Name": "Hangzhou West Railway Station Hub Tower A",
+   "City": "Hangzhou",
+   "Year": "N/A",
+   "Height": "320 m\n/\n1,050 ft",
+   "Floors": "61",
+   "Material": "N/A",
+   "Use": "Hotel / Office"
+ },
+ {
+   "Number": 90,
+   "Name": "Science Gate Tower 1",
+   "City": "Shanghai",
+   "Year": "2024",
+   "Height": "320 m\n/\n1,050 ft",
+   "Floors": "60",
+   "Material": "N/A",
+   "Use": "Office"
+ },
+ {
+   "Number": 90,
+   "Name": "Science Gate Tower 2",
+   "City": "Shanghai",
+   "Year": "2024",
+   "Height": "320 m\n/\n1,050 ft",
+   "Floors": "60",
+   "Material": "N/A",
+   "Use": "Office"
+ },
+ {
+   "Number": 90,
+   "Name": "Ankangyuan Tower 1",
+   "City": "Shanghai",
+   "Year": "N/A",
+   "Height": "320 m\n/\n1,050 ft",
+   "Floors": "N/A",
+   "Material": "N/A",
+   "Use": "Office"
+ },
+ {
+   "Number": 90,
+   "Name": "Beibin Lu Main Tower",
+   "City": "Chongqing",
+   "Year": "2024",
+   "Height": "320 m\n/\n1,050 ft",
+   "Floors": "N/A",
+   "Material": "N/A",
+   "Use": "Office"
+ },
+ {
+   "Number": 90,
+   "Name": "Guangzhou International Cultural Center",
+   "City": "Guangzhou",
+   "Year": "2023",
+   "Height": "320 m\n/\n1,050 ft",
+   "Floors": "N/A",
+   "Material": "N/A",
+   "Use": "Office"
+ },
+ {
+   "Number": 90,
+   "Name": "Suhewan Huaxing New City Tower 1",
+   "City": "Shanghai",
+   "Year": "2028",
+   "Height": "320 m\n/\n1,050 ft",
+   "Floors": "N/A",
+   "Material": "N/A",
+   "Use": "Hotel / Office"
+ },
+ {
+   "Number": 100,
+   "Name": "Jiuzhou Bay Tower",
+   "City": "Zhuhai",
+   "Year": "2024",
+   "Height": "318.5 m\n/\n1,045 ft",
+   "Floors": "64",
+   "Material": "N/A",
+   "Use": "Hotel / Office"
+ }
+]

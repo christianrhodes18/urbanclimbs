@@ -6,7 +6,7 @@ const useStyles = createStyles((theme) => ({
   hero: {
     position: 'relative',
     backgroundImage:
-      'url(https://images.unsplash.com/photo-1496545087308-51ec893e6bbc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80)',
+      'url(https://images.unsplash.com/photo-1501324682324-0d8d7c4b9706?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80)',
     backgroundSize: 'cover',
     backgroundPosition: 'center',
   },
@@ -74,10 +74,11 @@ function HeroContentLeft() {
         zIndex={0}
       />
       <Container className={classes.container}>
-        <Title className={classes.title}>Urban Freeclimbs</Title>
+        <Title className={classes.title}>Skyscapers</Title>
         <Text className={classes.description} size="xl" mt="xl">
-          Explore climbing structures across the world, from skyscrapers to cranes and bridges, 
-          this application will give you the insight you need to live daringly. 
+        Skyscrapers are the ultimate example of innovation. They are a testament to human ingenuity 
+        and our ability to solve problems. They are proof that we can create something new, even if it's 
+        bigger than anything we've seen before. 
         </Text>
       <Link to="Home">
         <Button variant="gradient" size="xl" radius="xl" className={classes.control}>

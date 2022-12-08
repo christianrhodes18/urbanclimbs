@@ -3,10 +3,10 @@
         {
             "id": 1,
             "category": "buildings",
-            "image": "https://images.unsplash.com/photo-1619806840163-38e329be64bb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1548&q=80",
-            "title": "Burj Khalifa",
-            "country": "United Arab Emirates",
-            "description": "The Burj Khalifa is the tallest structure and building in the world since its topping out in 2009, supplanting Taipei 101, the previous holder of that status",
+            "image": "https://images.squarespace-cdn.com/content/v1/5553a1f5e4b004e720fb85d7/1608665101943-E0TSEKS1JWYHG3NNDI4V/Scoops+High.jpg?format=1000w",
+            "title": "Scoops",
+            "country": "United States",
+            "description": "Great brick downtown spot in the lower east side in Manhattan. ",
             "badges": [
             { "emoji": "🛕", "label": "Skyscraper" },
             { "emoji": "🏙", "label": "City" },

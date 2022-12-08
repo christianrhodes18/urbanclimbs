@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import json_buildings from '../buildings.json'
+import json_buildings from '../resources/buildings.json'
 import Climbs from '../components/Climbs'
 import { NavBar } from '../components/NavBar'
 
@@ -9,7 +9,7 @@ export default function Welcome() {
 
     return (
         <>
-            <NavBar /* filterType={filterType}  */filterType={setFilterType}/>
+            <NavBar filterType={setFilterType}/>
             <Climbs data={data} type={filterType}/>
         </>
     )

@@ -1,11 +1,29 @@
 import React, { useEffect, useState } from 'react'
-import json_buildings from '../buildings.json'
+import json_buildings from '../resources/buildings.json'
 import { BadgeCard } from './BuildingCard'
 import '../styles/climbs.css'
 
 function Climbs(props: { data: any; type: string; }) {
     const data = props.data
     const type = props.type.toLowerCase()
+
+    //google images query (from ChatGPT by OpenAI)
+    // useEffect(() => {
+    //     const API_KEY = "YOUR_API_KEY";
+    //     const searchQuery = "your search query";
+
+    //     const url = `https://www.googleapis.com/customsearch/v1?key=${API_KEY}&q=${searchQuery}`;
+
+    //     fetch(url)
+    //     .then(response => response.json())
+    //     .then(data => {
+    //         // Do something with the data
+    //     })
+    //     .catch(error => {
+    //         // Handle the error
+    //     });
+
+    // })
 
     return (
         <>

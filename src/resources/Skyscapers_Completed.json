@@ -1,0 +1,1002 @@
+[
+ {
+   "Number": 1,
+   "Name": "Burj Khalifa",
+   "City": "Dubai",
+   "Year": 2010,
+   "Height": "828 m\n/\n2,717 ft",
+   "Floors": 163,
+   "Material": "Steel Over Concrete",
+   "Use": "Office / Residential / Hotel"
+ },
+ {
+   "Number": 2,
+   "Name": "Shanghai Tower",
+   "City": "Shanghai",
+   "Year": 2015,
+   "Height": "632 m\n/\n2,073 ft",
+   "Floors": 128,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Hotel / Office"
+ },
+ {
+   "Number": 3,
+   "Name": "Makkah Royal Clock Tower",
+   "City": "Mecca",
+   "Year": 2012,
+   "Height": "601 m\n/\n1,972 ft",
+   "Floors": 120,
+   "Material": "Steel Over Concrete",
+   "Use": "Serviced Apartments / Hotel / Retail"
+ },
+ {
+   "Number": 4,
+   "Name": "Ping An Finance Center",
+   "City": "Shenzhen",
+   "Year": 2017,
+   "Height": "599.1 m\n/\n1,965 ft",
+   "Floors": 115,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Office"
+ },
+ {
+   "Number": 5,
+   "Name": "Lotte World Tower",
+   "City": "Seoul",
+   "Year": 2017,
+   "Height": "554.5 m\n/\n1,819 ft",
+   "Floors": 123,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Hotel / Residential / Office / Retail"
+ },
+ {
+   "Number": 6,
+   "Name": "One World Trade Center",
+   "City": "New York City",
+   "Year": 2014,
+   "Height": "541.3 m\n/\n1,776 ft",
+   "Floors": 94,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Office"
+ },
+ {
+   "Number": 7,
+   "Name": "Guangzhou CTF Finance Centre",
+   "City": "Guangzhou",
+   "Year": 2016,
+   "Height": "530 m\n/\n1,739 ft",
+   "Floors": 111,
+   "Material": "Composite",
+   "Use": "Hotel / Residential / Office"
+ },
+ {
+   "Number": 7,
+   "Name": "Tianjin CTF Finance Centre",
+   "City": "Tianjin",
+   "Year": 2019,
+   "Height": "530 m\n/\n1,739 ft",
+   "Floors": 97,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Hotel / Serviced Apartments / Office"
+ },
+ {
+   "Number": 9,
+   "Name": "CITIC Tower",
+   "City": "Beijing",
+   "Year": 2018,
+   "Height": "527.7 m\n/\n1,731 ft",
+   "Floors": 109,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Office"
+ },
+ {
+   "Number": 10,
+   "Name": "TAIPEI 101",
+   "City": "Taipei",
+   "Year": 2004,
+   "Height": "508 m\n/\n1,667 ft",
+   "Floors": 101,
+   "Material": "Composite",
+   "Use": "Office"
+ },
+ {
+   "Number": 11,
+   "Name": "Shanghai World Financial Center",
+   "City": "Shanghai",
+   "Year": 2008,
+   "Height": "492 m\n/\n1,614 ft",
+   "Floors": 101,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Hotel / Office"
+ },
+ {
+   "Number": 12,
+   "Name": "International Commerce Centre",
+   "City": "Hong Kong",
+   "Year": 2010,
+   "Height": "484 m\n/\n1,588 ft",
+   "Floors": 108,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Hotel / Office"
+ },
+ {
+   "Number": 13,
+   "Name": "Central Park Tower",
+   "City": "New York City",
+   "Year": 2020,
+   "Height": "472.4 m\n/\n1,550 ft",
+   "Floors": 98,
+   "Material": "All-Concrete",
+   "Use": "Residential / Retail"
+ },
+ {
+   "Number": 14,
+   "Name": "Lakhta Center",
+   "City": "St. Petersburg",
+   "Year": 2019,
+   "Height": "462 m\n/\n1,516 ft",
+   "Floors": 87,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Office"
+ },
+ {
+   "Number": 15,
+   "Name": "Vincom Landmark 81",
+   "City": "Ho Chi Minh City",
+   "Year": 2018,
+   "Height": "461.2 m\n/\n1,513 ft",
+   "Floors": 81,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Hotel / Residential"
+ },
+ {
+   "Number": 16,
+   "Name": "The Exchange 106",
+   "City": "Kuala Lumpur",
+   "Year": 2019,
+   "Height": "453.6 m\n/\n1,488 ft",
+   "Floors": 95,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Office"
+ },
+ {
+   "Number": 17,
+   "Name": "Changsha IFS Tower T1",
+   "City": "Changsha",
+   "Year": 2018,
+   "Height": "452.1 m\n/\n1,483 ft",
+   "Floors": 94,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Hotel / Office"
+ },
+ {
+   "Number": 18,
+   "Name": "Petronas Twin Tower 1",
+   "City": "Kuala Lumpur",
+   "Year": 1998,
+   "Height": "451.9 m\n/\n1,483 ft",
+   "Floors": 88,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Office"
+ },
+ {
+   "Number": 18,
+   "Name": "Petronas Twin Tower 2",
+   "City": "Kuala Lumpur",
+   "Year": 1998,
+   "Height": "451.9 m\n/\n1,483 ft",
+   "Floors": 88,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Office"
+ },
+ {
+   "Number": 20,
+   "Name": "Suzhou IFS",
+   "City": "Suzhou",
+   "Year": 2019,
+   "Height": "450 m\n/\n1,476 ft",
+   "Floors": 95,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Hotel / Office / Serviced Apartments"
+ },
+ {
+   "Number": 20,
+   "Name": "Zifeng Tower",
+   "City": "Nanjing",
+   "Year": 2010,
+   "Height": "450 m\n/\n1,476 ft",
+   "Floors": 66,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Hotel / Office"
+ },
+ {
+   "Number": 22,
+   "Name": "Wuhan Center Tower",
+   "City": "Wuhan",
+   "Year": 2019,
+   "Height": "443.1 m\n/\n1,454 ft",
+   "Floors": 88,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Hotel / Residential / Office"
+ },
+ {
+   "Number": 23,
+   "Name": "Willis Tower",
+   "City": "Chicago",
+   "Year": 1974,
+   "Height": "442.1 m\n/\n1,451 ft",
+   "Floors": 108,
+   "Material": "All-Steel",
+   "Use": "Office"
+ },
+ {
+   "Number": 24,
+   "Name": "KK100",
+   "City": "Shenzhen",
+   "Year": 2011,
+   "Height": "441.8 m\n/\n1,449 ft",
+   "Floors": 98,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Hotel / Office"
+ },
+ {
+   "Number": 25,
+   "Name": "Guangzhou International Finance Center",
+   "City": "Guangzhou",
+   "Year": 2010,
+   "Height": "438.6 m\n/\n1,439 ft",
+   "Floors": 101,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Hotel / Office"
+ },
+ {
+   "Number": 26,
+   "Name": "111 West 57th Street",
+   "City": "New York City",
+   "Year": 2021,
+   "Height": "435.3 m\n/\n1,428 ft",
+   "Floors": 84,
+   "Material": "Steel Over Concrete",
+   "Use": "Residential"
+ },
+ {
+   "Number": 27,
+   "Name": "One Vanderbilt Avenue",
+   "City": "New York City",
+   "Year": 2020,
+   "Height": "427 m\n/\n1,401 ft",
+   "Floors": 62,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Office"
+ },
+ {
+   "Number": 28,
+   "Name": "432 Park Avenue",
+   "City": "New York City",
+   "Year": 2015,
+   "Height": "425.7 m\n/\n1,397 ft",
+   "Floors": 85,
+   "Material": "All-Concrete",
+   "Use": "Residential"
+ },
+ {
+   "Number": 29,
+   "Name": "Marina 101",
+   "City": "Dubai",
+   "Year": 2017,
+   "Height": "425 m\n/\n1,394 ft",
+   "Floors": 101,
+   "Material": "All-Concrete",
+   "Use": "Residential / Hotel"
+ },
+ {
+   "Number": 30,
+   "Name": "Trump International Hotel & Tower",
+   "City": "Chicago",
+   "Year": 2009,
+   "Height": "423.2 m\n/\n1,389 ft",
+   "Floors": 98,
+   "Material": "All-Concrete",
+   "Use": "Residential / Hotel"
+ },
+ {
+   "Number": 31,
+   "Name": "Minying International Trade Center T2",
+   "City": "Dongguan",
+   "Year": 2021,
+   "Height": "422.6 m\n/\n1,386 ft",
+   "Floors": 85,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Office"
+ },
+ {
+   "Number": 32,
+   "Name": "Jin Mao Tower",
+   "City": "Shanghai",
+   "Year": 1999,
+   "Height": "420.5 m\n/\n1,380 ft",
+   "Floors": 88,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Hotel / Office"
+ },
+ {
+   "Number": 33,
+   "Name": "Princess Tower",
+   "City": "Dubai",
+   "Year": 2012,
+   "Height": "413.4 m\n/\n1,356 ft",
+   "Floors": 101,
+   "Material": "Steel Over Concrete",
+   "Use": "Residential"
+ },
+ {
+   "Number": 34,
+   "Name": "Al Hamra Tower",
+   "City": "Kuwait City",
+   "Year": 2011,
+   "Height": "412.6 m\n/\n1,354 ft",
+   "Floors": 80,
+   "Material": "All-Concrete",
+   "Use": "Office"
+ },
+ {
+   "Number": 35,
+   "Name": "Two International Finance Centre",
+   "City": "Hong Kong",
+   "Year": 2003,
+   "Height": "412 m\n/\n1,352 ft",
+   "Floors": 88,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Office"
+ },
+ {
+   "Number": 36,
+   "Name": "LCT The Sharp Landmark Tower",
+   "City": "Busan",
+   "Year": 2019,
+   "Height": "411.6 m\n/\n1,350 ft",
+   "Floors": 101,
+   "Material": "All-Concrete",
+   "Use": "Hotel / Residential"
+ },
+ {
+   "Number": 37,
+   "Name": "Guangxi China Resources Tower",
+   "City": "Nanning",
+   "Year": 2020,
+   "Height": "402.7 m\n/\n1,321 ft",
+   "Floors": 86,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Hotel / Office"
+ },
+ {
+   "Number": 38,
+   "Name": "Guiyang International Financial Center T1",
+   "City": "Guiyang",
+   "Year": 2020,
+   "Height": "401 m\n/\n1,316 ft",
+   "Floors": 79,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Hotel / Office"
+ },
+ {
+   "Number": 39,
+   "Name": "China Resources Tower",
+   "City": "Shenzhen",
+   "Year": 2018,
+   "Height": "392.5 m\n/\n1,288 ft",
+   "Floors": 68,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Office"
+ },
+ {
+   "Number": 40,
+   "Name": "23 Marina",
+   "City": "Dubai",
+   "Year": 2012,
+   "Height": "392.4 m\n/\n1,287 ft",
+   "Floors": 88,
+   "Material": "All-Concrete",
+   "Use": "Residential"
+ },
+ {
+   "Number": 41,
+   "Name": "CITIC Plaza",
+   "City": "Guangzhou",
+   "Year": 1996,
+   "Height": "390.2 m\n/\n1,280 ft",
+   "Floors": 80,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Office"
+ },
+ {
+   "Number": 42,
+   "Name": "Shum Yip Upperhills Tower 1",
+   "City": "Shenzhen",
+   "Year": 2020,
+   "Height": "388.1 m\n/\n1,273 ft",
+   "Floors": 80,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Hotel / Office"
+ },
+ {
+   "Number": 43,
+   "Name": "30 Hudson Yards",
+   "City": "New York City",
+   "Year": 2019,
+   "Height": "387.1 m\n/\n1,270 ft",
+   "Floors": 73,
+   "Material": "All-Steel",
+   "Use": "Office"
+ },
+ {
+   "Number": 44,
+   "Name": "PIF Tower",
+   "City": "Riyadh",
+   "Year": 2021,
+   "Height": "385 m\n/\n1,263 ft",
+   "Floors": 72,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Office"
+ },
+ {
+   "Number": 45,
+   "Name": "Shun Hing Square",
+   "City": "Shenzhen",
+   "Year": 1996,
+   "Height": "384 m\n/\n1,260 ft",
+   "Floors": 69,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Office"
+ },
+ {
+   "Number": 46,
+   "Name": "Eton Place Dalian Tower 1",
+   "City": "Dalian",
+   "Year": 2016,
+   "Height": "383.2 m\n/\n1,257 ft",
+   "Floors": 80,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Hotel / Office"
+ },
+ {
+   "Number": 47,
+   "Name": "Nanning Logan Century 1",
+   "City": "Nanning",
+   "Year": 2018,
+   "Height": "381.3 m\n/\n1,251 ft",
+   "Floors": 82,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Hotel / Office"
+ },
+ {
+   "Number": 48,
+   "Name": "Burj Mohammed Bin Rashid",
+   "City": "Abu Dhabi",
+   "Year": 2014,
+   "Height": "381.2 m\n/\n1,251 ft",
+   "Floors": 88,
+   "Material": "All-Concrete",
+   "Use": "Residential"
+ },
+ {
+   "Number": 49,
+   "Name": "Empire State Building",
+   "City": "New York City",
+   "Year": 1931,
+   "Height": "381 m\n/\n1,250 ft",
+   "Floors": 102,
+   "Material": "All-Steel",
+   "Use": "Office"
+ },
+ {
+   "Number": 50,
+   "Name": "Elite Residence",
+   "City": "Dubai",
+   "Year": 2012,
+   "Height": "380.5 m\n/\n1,248 ft",
+   "Floors": 87,
+   "Material": "All-Concrete",
+   "Use": "Residential"
+ },
+ {
+   "Number": 51,
+   "Name": "1 Corporate Avenue",
+   "City": "Wuhan",
+   "Year": 2021,
+   "Height": "376 m\n/\n1,234 ft",
+   "Floors": 73,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Office"
+ },
+ {
+   "Number": 52,
+   "Name": "Dabaihui Plaza",
+   "City": "Shenzhen",
+   "Year": 2021,
+   "Height": "375.6 m\n/\n1,232 ft",
+   "Floors": 70,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Residential / Office"
+ },
+ {
+   "Number": 53,
+   "Name": "Central Plaza",
+   "City": "Hong Kong",
+   "Year": 1992,
+   "Height": "373.9 m\n/\n1,227 ft",
+   "Floors": 78,
+   "Material": "All-Concrete",
+   "Use": "Office"
+ },
+ {
+   "Number": 54,
+   "Name": "Federation Tower",
+   "City": "Moscow",
+   "Year": 2016,
+   "Height": "373.7 m\n/\n1,226 ft",
+   "Floors": 93,
+   "Material": "All-Concrete",
+   "Use": "Residential / Office"
+ },
+ {
+   "Number": 55,
+   "Name": "Dalian International Trade Center",
+   "City": "Dalian",
+   "Year": 2019,
+   "Height": "370.2 m\n/\n1,214 ft",
+   "Floors": 86,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Residential / Office"
+ },
+ {
+   "Number": 56,
+   "Name": "The Address Boulevard",
+   "City": "Dubai",
+   "Year": 2017,
+   "Height": "370 m\n/\n1,214 ft",
+   "Floors": 73,
+   "Material": "All-Concrete",
+   "Use": "Residential / Hotel / Retail"
+ },
+ {
+   "Number": 57,
+   "Name": "Qingdao Hai Tian Center",
+   "City": "Qingdao",
+   "Year": 2021,
+   "Height": "368.9 m\n/\n1,210 ft",
+   "Floors": 73,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Hotel / Office"
+ },
+ {
+   "Number": 58,
+   "Name": "Golden Eagle Tiandi Tower A",
+   "City": "Nanjing",
+   "Year": 2019,
+   "Height": "368.1 m\n/\n1,208 ft",
+   "Floors": 77,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Hotel / Office"
+ },
+ {
+   "Number": 59,
+   "Name": "Bank of China Tower",
+   "City": "Hong Kong",
+   "Year": 1990,
+   "Height": "367.4 m\n/\n1,205 ft",
+   "Floors": 72,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Office"
+ },
+ {
+   "Number": 60,
+   "Name": "Bank of America Tower",
+   "City": "New York City",
+   "Year": 2009,
+   "Height": "365.8 m\n/\n1,200 ft",
+   "Floors": 55,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Office"
+ },
+ {
+   "Number": 61,
+   "Name": "The St. Regis Chicago",
+   "City": "Chicago",
+   "Year": 2020,
+   "Height": "362.9 m\n/\n1,191 ft",
+   "Floors": 101,
+   "Material": "All-Concrete",
+   "Use": "Residential / Hotel"
+ },
+ {
+   "Number": 62,
+   "Name": "Almas Tower",
+   "City": "Dubai",
+   "Year": 2008,
+   "Height": "360 m\n/\n1,181 ft",
+   "Floors": 68,
+   "Material": "All-Concrete",
+   "Use": "Office"
+ },
+ {
+   "Number": 63,
+   "Name": "Hanking Center",
+   "City": "Shenzhen",
+   "Year": 2018,
+   "Height": "358.9 m\n/\n1,177 ft",
+   "Floors": 65,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Office"
+ },
+ {
+   "Number": 64,
+   "Name": "Gevora Hotel",
+   "City": "Dubai",
+   "Year": 2017,
+   "Height": "356.2 m\n/\n1,169 ft",
+   "Floors": 75,
+   "Material": "Steel Over Concrete",
+   "Use": "Hotel"
+ },
+ {
+   "Number": 65,
+   "Name": "JW Marriott Marquis Hotel Dubai Tower 1",
+   "City": "Dubai",
+   "Year": 2012,
+   "Height": "355.4 m\n/\n1,166 ft",
+   "Floors": 82,
+   "Material": "All-Concrete",
+   "Use": "Hotel"
+ },
+ {
+   "Number": 65,
+   "Name": "JW Marriott Marquis Hotel Dubai Tower 2",
+   "City": "Dubai",
+   "Year": 2013,
+   "Height": "355.4 m\n/\n1,166 ft",
+   "Floors": 82,
+   "Material": "All-Concrete",
+   "Use": "Hotel"
+ },
+ {
+   "Number": 67,
+   "Name": "Emirates Tower One",
+   "City": "Dubai",
+   "Year": 2000,
+   "Height": "354.6 m\n/\n1,163 ft",
+   "Floors": 54,
+   "Material": "Composite",
+   "Use": "Office"
+ },
+ {
+   "Number": 68,
+   "Name": "Raffles City Chongqing T3N",
+   "City": "Chongqing",
+   "Year": 2019,
+   "Height": "354.5 m\n/\n1,163 ft",
+   "Floors": 79,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Residential / Retail"
+ },
+ {
+   "Number": 68,
+   "Name": "Raffles City Chongqing T4N",
+   "City": "Chongqing",
+   "Year": 2019,
+   "Height": "354.5 m\n/\n1,163 ft",
+   "Floors": 74,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Hotel / Office / Retail"
+ },
+ {
+   "Number": 70,
+   "Name": "OKO - Residential Tower",
+   "City": "Moscow",
+   "Year": 2015,
+   "Height": "354.2 m\n/\n1,162 ft",
+   "Floors": 90,
+   "Material": "All-Concrete",
+   "Use": "Residential / Serviced Apartments / Hotel"
+ },
+ {
+   "Number": 71,
+   "Name": "The Torch",
+   "City": "Dubai",
+   "Year": 2011,
+   "Height": "352 m\n/\n1,155 ft",
+   "Floors": 86,
+   "Material": "All-Concrete",
+   "Use": "Residential"
+ },
+ {
+   "Number": 72,
+   "Name": "Forum 66 Tower 1",
+   "City": "Shenyang",
+   "Year": 2015,
+   "Height": "350.6 m\n/\n1,150 ft",
+   "Floors": 68,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Hotel / Office"
+ },
+ {
+   "Number": 73,
+   "Name": "The Pinnacle",
+   "City": "Guangzhou",
+   "Year": 2012,
+   "Height": "350.3 m\n/\n1,149 ft",
+   "Floors": 60,
+   "Material": "All-Concrete",
+   "Use": "Office"
+ },
+ {
+   "Number": 74,
+   "Name": "Spring City 66",
+   "City": "Kunming",
+   "Year": 2019,
+   "Height": "349 m\n/\n1,145 ft",
+   "Floors": 61,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Office"
+ },
+ {
+   "Number": 75,
+   "Name": "85 Sky Tower",
+   "City": "Kaohsiung",
+   "Year": 1997,
+   "Height": "347.5 m\n/\n1,140 ft",
+   "Floors": 85,
+   "Material": "All-Steel",
+   "Use": "Hotel / Office / Retail"
+ },
+ {
+   "Number": 76,
+   "Name": "Aon Center",
+   "City": "Chicago",
+   "Year": 1973,
+   "Height": "346.3 m\n/\n1,136 ft",
+   "Floors": 83,
+   "Material": "All-Steel",
+   "Use": "Office"
+ },
+ {
+   "Number": 77,
+   "Name": "The Center",
+   "City": "Hong Kong",
+   "Year": 1998,
+   "Height": "346 m\n/\n1,135 ft",
+   "Floors": 73,
+   "Material": "All-Steel",
+   "Use": "Office"
+ },
+ {
+   "Number": 78,
+   "Name": "NEVA TOWERS 2",
+   "City": "Moscow",
+   "Year": 2020,
+   "Height": "345 m\n/\n1,132 ft",
+   "Floors": 79,
+   "Material": "All-Concrete",
+   "Use": "Residential"
+ },
+ {
+   "Number": 79,
+   "Name": "875 North Michigan Avenue",
+   "City": "Chicago",
+   "Year": 1969,
+   "Height": "343.7 m\n/\n1,128 ft",
+   "Floors": 100,
+   "Material": "All-Steel",
+   "Use": "Residential / Office"
+ },
+ {
+   "Number": 80,
+   "Name": "Shimao Global Financial Center",
+   "City": "Changsha",
+   "Year": 2019,
+   "Height": "343 m\n/\n1,125 ft",
+   "Floors": 74,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Office"
+ },
+ {
+   "Number": 81,
+   "Name": "Four Seasons Place",
+   "City": "Kuala Lumpur",
+   "Year": 2018,
+   "Height": "342.5 m\n/\n1,124 ft",
+   "Floors": 75,
+   "Material": "All-Concrete",
+   "Use": "Residential / Hotel"
+ },
+ {
+   "Number": 82,
+   "Name": "ADNOC Headquarters",
+   "City": "Abu Dhabi",
+   "Year": 2015,
+   "Height": "342 m\n/\n1,122 ft",
+   "Floors": 65,
+   "Material": "All-Concrete",
+   "Use": "Office"
+ },
+ {
+   "Number": 83,
+   "Name": "One Shenzhen Bay Tower 7",
+   "City": "Shenzhen",
+   "Year": 2018,
+   "Height": "341.4 m\n/\n1,120 ft",
+   "Floors": 71,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Residential / Hotel / Office"
+ },
+ {
+   "Number": 84,
+   "Name": "LCT The Sharp Residential Tower A",
+   "City": "Busan",
+   "Year": 2019,
+   "Height": "339.1 m\n/\n1,113 ft",
+   "Floors": 85,
+   "Material": "All-Concrete",
+   "Use": "Residential"
+ },
+ {
+   "Number": 85,
+   "Name": "Comcast Technology Center",
+   "City": "Philadelphia",
+   "Year": 2018,
+   "Height": "339.1 m\n/\n1,112 ft",
+   "Floors": 59,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Hotel / Office"
+ },
+ {
+   "Number": 86,
+   "Name": "YunDing Tower",
+   "City": "Jinan",
+   "Year": 2020,
+   "Height": "339 m\n/\n1,112 ft",
+   "Floors": 69,
+   "Material": "All-Concrete",
+   "Use": "Office / Hotel"
+ },
+ {
+   "Number": 86,
+   "Name": "Wuxi International Finance Square",
+   "City": "Wuxi",
+   "Year": 2014,
+   "Height": "339 m\n/\n1,112 ft",
+   "Floors": 68,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Office"
+ },
+ {
+   "Number": 88,
+   "Name": "Chongqing World Financial Center",
+   "City": "Chongqing",
+   "Year": 2015,
+   "Height": "338.9 m\n/\n1,112 ft",
+   "Floors": 72,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Hotel / Office"
+ },
+ {
+   "Number": 89,
+   "Name": "Mercury City Tower",
+   "City": "Moscow",
+   "Year": 2013,
+   "Height": "338.8 m\n/\n1,112 ft",
+   "Floors": 75,
+   "Material": "All-Concrete",
+   "Use": "Residential / Office"
+ },
+ {
+   "Number": 90,
+   "Name": "Suning Plaza Tower 1",
+   "City": "Zhenjiang",
+   "Year": 2018,
+   "Height": "338 m\n/\n1,109 ft",
+   "Floors": 75,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Hotel / Serviced Apartments / SOHO / Office"
+ },
+ {
+   "Number": 90,
+   "Name": "Tianjin Modern City Office Tower",
+   "City": "Tianjin",
+   "Year": 2016,
+   "Height": "338 m\n/\n1,109 ft",
+   "Floors": 72,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Office"
+ },
+ {
+   "Number": 92,
+   "Name": "Hengqin International Finance Center",
+   "City": "Zhuhai",
+   "Year": 2020,
+   "Height": "337.7 m\n/\n1,108 ft",
+   "Floors": 69,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Residential / Office"
+ },
+ {
+   "Number": 93,
+   "Name": "Tianjin World Financial Center",
+   "City": "Tianjin",
+   "Year": 2011,
+   "Height": "336.9 m\n/\n1,105 ft",
+   "Floors": 75,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Office"
+ },
+ {
+   "Number": 94,
+   "Name": "SLS Dubai",
+   "City": "Dubai",
+   "Year": 2020,
+   "Height": "335.5 m\n/\n1,101 ft",
+   "Floors": 75,
+   "Material": "All-Concrete",
+   "Use": "Hotel / Serviced Apartments / Residential"
+ },
+ {
+   "Number": 95,
+   "Name": "Wilshire Grand Center",
+   "City": "Los Angeles",
+   "Year": 2017,
+   "Height": "335.3 m\n/\n1,100 ft",
+   "Floors": 62,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Hotel / Office"
+ },
+ {
+   "Number": 96,
+   "Name": "DAMAC Heights",
+   "City": "Dubai",
+   "Year": 2018,
+   "Height": "335.1 m\n/\n1,099 ft",
+   "Floors": 88,
+   "Material": "All-Concrete",
+   "Use": "Residential"
+ },
+ {
+   "Number": 97,
+   "Name": "Twin Towers Guiyang, East Tower",
+   "City": "Guiyang",
+   "Year": 2020,
+   "Height": "335 m\n/\n1,099 ft",
+   "Floors": 74,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Office"
+ },
+ {
+   "Number": 97,
+   "Name": "Twin Towers Guiyang, West Tower",
+   "City": "Guiyang",
+   "Year": 2020,
+   "Height": "335 m\n/\n1,099 ft",
+   "Floors": 74,
+   "Material": "Concrete-Steel Composite",
+   "Use": "Hotel / Office"
+ },
+ {
+   "Number": 99,
+   "Name": "Shimao International Plaza",
+   "City": "Shanghai",
+   "Year": 2006,
+   "Height": "333.3 m\n/\n1,094 ft",
+   "Floors": 60,
+   "Material": "All-Concrete",
+   "Use": "Hotel / Office / Retail"
+ },
+ {
+   "Number": 100,
+   "Name": "LCT The Sharp Residential Tower B",
+   "City": "Busan",
+   "Year": 2019,
+   "Height": "333.1 m\n/\n1,093 ft",
+   "Floors": 85,
+   "Material": "All-Concrete",
+   "Use": "Residential"
+ }
+]
